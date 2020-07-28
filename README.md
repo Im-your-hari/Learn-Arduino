@@ -1,3 +1,6 @@
+#### Examples
+* Arduino-basics/arduino-basics.md
+
 #### Development Boards 
 
 * Raspberry Pi B+
@@ -88,6 +91,4 @@
 * Laser Cutter and Engraving Machine
 * CNC Milling Machine
 
-#### Examples
-* Arduino-basics/arduino-basics.md
 
