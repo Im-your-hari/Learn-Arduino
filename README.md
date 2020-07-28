@@ -1,5 +1,10 @@
 #### Examples
-* [BASICS](Arduino-basics/arduino-basics.md)
+* [Arduino-Basics](Arduino-basics/arduino-basics.md)
+* [Control-Things-Using-Mobile-Phone](Control-Things-Using-Mobile-Phone/control-things-using-phone.md)
+* [Control-Things-Using-Voice](Control-Things-Using-Voice/control-things-using-voice.md)
+* [Digital-Clock](Digital-Clock/digital-clock.md)
+* [Digital-Scale](Digital-Scale/digital-scale.md)
+* [Digital-Thermostat](Digital-Thermostat/digital-thermostat.md)
 
 #### Development Boards 
 
